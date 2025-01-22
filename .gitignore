@@ -1,0 +1,3 @@
+/client/auth-protect-route/node_modules
+/server/node_modules
+.env
